@@ -1579,13 +1579,13 @@ footer .copyright p {
 }
 
 .page-head h1 {
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 900;
   margin: 0;
   padding: 100px 0 10px;
   color: #fff;
   text-transform: uppercase;
-  letter-spacing: 15px;
+  /* letter-spacing: 15px; */
 }
 
 .blog-page .blog-box {
