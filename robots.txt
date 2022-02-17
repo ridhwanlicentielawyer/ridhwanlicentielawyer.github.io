@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://licentielawyer.com/sitemap.xml
+Sitemap: https://licentielawyer.com/sitemap.xml
